@@ -1,5 +1,5 @@
 <h2 align="center">
-  Unblocked-x< | Games made simple br/>
+  Unblocked-x | Games made simple <br/>
   <a href="https://unblocked-x.com" target="_blank">unblocked-x.com</a>
 </h2>
 <div align="center">
