@@ -36,11 +36,11 @@ This project was built using these technologies.
 
 ## Features
 
-** Always updated **
+**Always updated**
 
-** All in one place **
+**All in one place**
 
-** NO VPN!! **
+**NO VPN!!**
 
 ### Show your support
 
