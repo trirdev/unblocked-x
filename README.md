@@ -19,9 +19,9 @@
 
 <h3 align="center">
     🔹
-    <a href="https://github.com/domilx/Portfolio3.0/issues">Report Bug</a> &nbsp; &nbsp;
+    <a href="https://github.com/ALWEB2/unblocked-x/issues">Report Bug</a> &nbsp; &nbsp;
     🔹
-    <a href="https://github.com/domilx/Portfolio3.0/issues">Request Feature</a>
+    <a href="https://github.com/ALWEB2/unblocked-x/issues">Request Feature</a>
 </h3>
 
 ## Built With
